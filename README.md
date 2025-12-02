@@ -41,20 +41,22 @@
 ---
 
 ## Overview
-affinity designer enhances macOS workflows with structured <a href="#">system integration</a>, optimized <a href="#">performance flow</a> and reliable <a href="#">resource handling</a>. 
-It keeps navigation responsive even during large operations using internal <a href="#">workflow queues</a> and <a href="#">task scheduling</a>.
+affinity designer enhances macOS workflows by delivering a highly refined creative environment built on deep <a href="#">system integration</a> and a rendering engine optimized for real-time precision. It is engineered to handle demanding vector and raster tasks simultaneously, allowing designers to create complex illustrations, interface layouts and branding assets without performance drops. Through an optimized <a href="#">performance flow</a>, the application distributes tasks across CPU and GPU resources in a balanced manner, ensuring that edits—such as node adjustments, layer transformations and high-resolution brush strokes—remain responsive even inside heavy documents. Stable <a href="#">resource handling</a> allows the program to manage large artboards, extensive layer stacks and multiple open files without compromising smooth interaction.
+
+To support uninterrupted design work, affinity designer makes use of internally coordinated <a href="#">workflow queues</a>, which prioritize visual updates, input latency and color-accurate rendering. Background operations like thumbnail generation, live effect previews, export encoding and resource linking are scheduled intelligently through adaptive <a href="#">task scheduling</a>. This ensures that the interface remains fluid and predictable as projects scale in complexity, giving artists and designers full confidence in long sessions.
 
 ### Optimized for macOS-Native Workflows
-The interface follows <a href="#">macOS conventions</a>, aligning menus, window behavior and dialog interactions with native expectations.
+The app follows established <a href="#">macOS conventions</a>, offering a UI that feels completely native within the operating system. Menus, inspector panels, toolbar layouts and modal dialogs behave consistently with macOS design guidelines. Support for gestures, multi-display setups, system color profiles and native font rendering allows affinity designer to merge naturally into existing macOS workflows. This familiarity reduces onboarding time and ensures that professional users can rely on muscle memory developed from other macOS tools.
 
 ### Localized Resource Handling & Customization
-Runs fully on a <a href="#">local processing model</a>, enabling offline stability and customizable <a href="#">configuration profiles</a>.
+Running entirely on a <a href="#">local processing model</a>, affinity designer performs all edits, effects and exports offline, making it dependable for secure or isolated environments. Users can define specialized <a href="#">configuration profiles</a>, including workspace presets, color themes, snapping rules, keyboard shortcuts and export specifications. These profiles help teams maintain consistent design languages and streamline repetitive production tasks across different project types—from UI layouts to print preparation.
 
 ### Cross-Hardware Optimization
-Designed for <a href="#">Intel</a> and <a href="#">Apple Silicon</a>, ensuring smooth performance during extended sessions.
+Designed to operate efficiently on both <a href="#">Intel</a> and <a href="#">Apple Silicon</a> architectures, affinity designer takes advantage of multithreaded computation, GPU-accelerated vector rendering and Metal-based raster pipelines. Apple Silicon devices benefit from dramatically improved resource throughput, allowing live effects, zooming and pixel previews to remain smooth even in extremely dense documents. Long creative sessions retain stability due to adaptive memory scheduling and intelligent distribution of compute-heavy tasks.
 
 ### Data Management & Long-Term Stability
-Implements <a href="#">data structure rules</a>, <a href="#">metadata consistency</a> and safe <a href="#">buffer management</a> to maintain stability across recurring workflows.
+The application relies on precise <a href="#">data structure rules</a> that maintain document integrity as projects scale in size and detail. Its non-destructive workflow model enables reversible editing, enabling designers to adjust effects, masks and transformations without degrading assets. Rigorous <a href="#">metadata consistency</a> ensures fonts, color profiles, linked resources and object relationships remain synchronized across artboards. Safe <a href="#">buffer management</a> prevents memory fragmentation, supporting long working sessions without slowdowns. Combined, these systems deliver long-term reliability essential for professional production pipelines, print workflows and iterative design processes.
+
 
 
 <img src="https://imag.malavida.com/mvimgbig/download-fs/affinity-designer-16106-1.jpg" width="900">
