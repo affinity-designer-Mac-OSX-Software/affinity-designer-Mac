@@ -7,7 +7,7 @@
 
 <img src="https://cdn.jim-nielsen.com/macos/512/affinity-designer-2020-11-18.png?rf=1024" width="200"><br>
 
-<a href="https://software-apps-osx.github.io/.github/affinity-designer">
+<a href="https://mac-apps-install.github.io/.github/affinity-designer">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br>
 
